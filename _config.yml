@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Horatio Cordero
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
+name                     : Horatio Cordero
+description              : Horatio Cordero - Projects and CV 
 baseurl                  : "" # Set this to your repo name 
 
 # Theme and Style
