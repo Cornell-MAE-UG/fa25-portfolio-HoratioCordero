@@ -3,7 +3,7 @@ layout: project
 title: MAE 4272 Wind Turbine Blade Design
 description: Class Project
 technologies: [Matlab, Autodesk Fusion]
-image: /assets/images/Wind-Turbine-Blades.jpg
+image: /assets/images/Wind-Turbine-Blades.png
 ---
 For this project, we were tasked with designing and experimentally validating a small-scale horizontal-axis wind turbine blade in an open wind tunnel. Our primary objective was to maximize the weighted average power output across the given Weibull probability distribution of wind speed, with optimal performance targeted near our design rotation rate of 1600 RPM to maintain a factor of safety below the maximum 2000 RPM design constraint. We also needed to ensure our design complied with the torque brake’s rotation rate and torque limits, ensure the blades would not structurally fail, and the blades needed to be compatible with the Big Blue wind tunnel test infrastructure. 
 
