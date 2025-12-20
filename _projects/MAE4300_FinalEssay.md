@@ -2,8 +2,8 @@
 layout: project
 title: MAE 4300 Final Essay
 description: Class Project
-technologies: [Matlab, Autodesk Fusion]
-image: /assets/images/Wind-Turbine-Blades.png
+technologies: [Handwriting]
+image: /assets/images/MAE4300_Final-Essay_Image.png
 ---
 Identifying Ethical Issues: 
 
